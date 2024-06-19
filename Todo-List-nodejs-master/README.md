@@ -18,10 +18,7 @@ Overall, the todo list application using Node.js, Express.js, EJS, CSS, JavaScri
 Technologies Used: NodeJS, ExpressJS, EJS, CSS, JavaScript, Nodemon, MongoDB, Mongoose.
 ## Demo
 
-Under process...
-## Authors
-
-- [@AnkitVishwakarma](https://github.com/Ankit6098)
+Under process.
 
 
 ## Features
@@ -31,11 +28,7 @@ Under process...
 - MongoDb to store your the user data
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/Ankit6098/Todos-nodejs
-```
 
 Go to the project directory and open index.html file
 
@@ -61,49 +54,8 @@ Start the Server
  - [mongoose](https://mongoosejs.com/)
 
 
-## Screenshots
-
-![225232515-4c100b6b-52e4-40f8-a6d4-85e30dc2f5e7](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/487f548f-7ca6-4183-9443-c88c9f79c3f0)
-![225232960-da554f1f-ba4a-41f8-9856-edaebe339d76](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/25515d2e-1d72-498d-8044-59a01c6b9127)
-![225238829-05433362-5b16-454c-92d5-5e536fe6912e](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/316d15ca-1fe8-4581-80b1-fc316340bba6)
-![225239140-226f8eae-d8b8-4055-8a68-d85d523c2422](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/44a0c418-449e-446f-8a8e-3c4e14fca8bf)
-![225239221-caf86f3d-ef17-4d18-80a6-c72123ff5444](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/2ee90ab0-95d4-44f4-80ac-b17b088ac1ce)
-![225239406-98b7ba7d-df97-4d27-bb66-596a32187d87](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/960ff353-1ce9-4ef8-94e4-10af09184fd2)
-![225239841-4b5d77f0-4a54-4339-b6b3-b6a1be6776b5](https://github.com/Ankit6098/Todos-nodejs/assets/92246613/f5ffc3b8-480f-4d11-9a0b-c469e3c17e8e)
-
-
-## Related
-
-Here are some other projects
-
-[Alarm CLock - javascript](https://github.com/Ankit6098/Todos-nodejs)\
-[IMDb Clone - javascript](https://github.com/Ankit6098/IMDb-Clone)
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
-# Hi, I'm Ankit! 👋
-
-I'm a full stack developer 😎 ... Love to Develop Classic Unique fascinating and Eye Catching UI and Love to Create Projects and Building logics.
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankithub.me/Resume/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColorwhite=)](https://www.linkedin.com/in/ankit-vishwakarma-6531221b0/)
-
-
-## Other Common Github Profile Sections
-🧠 I'm currently learning FullStack Developer Course from Coding Ninjas
-
-📫 How to reach me ankitvis609@gmail.com
-
-
 ## 🛠 Skills
 React, Java, Javascript, HTML, CSS, Nodejs, ExpressJs, Mongodb, Mongoose...
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at ankitvis609@gmail.com
 
